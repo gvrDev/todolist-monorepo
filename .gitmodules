@@ -1,0 +1,6 @@
+[submodule "apps/todolist-frontend"]
+	path = apps/todolist-frontend
+	url = git@github.com:gvrDev/todolist-frontend.git
+[submodule "apps/todolist-api"]
+	path = apps/todolist-api
+	url = git@github.com:gvrDev/todolist-api.git
